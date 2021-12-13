@@ -1,7 +1,7 @@
 """
 Utilizando una lista de 10 números aleatorios,
 crear una lista nueva que incluya
-sólo los numeros primos y otra
+sólo los numeros pares y otra
 que incluya sus índices
 """
 
